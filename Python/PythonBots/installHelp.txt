@@ -1,0 +1,16 @@
+
+
+#to install the discord python module
+pip install -U discord.py[voice]
+
+#to install the dotenv module
+pip install python-dotenv
+
+#Then my modules need to be built and installed
+make
+make install
+make clean
+
+python setup.py build
+sudo python setup.py install
+

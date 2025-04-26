@@ -1,0 +1,18 @@
+[project]
+name = "secret-message-gdoc"
+version = "0.1.0"
+description = "Mostly a templete project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "requests>=2.32.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.4",
+]
+
+[tool.pytest.ini_options]
+pythonpath = "src"

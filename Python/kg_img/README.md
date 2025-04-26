@@ -1,0 +1,1 @@
+A Little test package to mess around with some image prosscessing tequnices.  Plan to mostly implement a few functions that turn pil images into unicode block character art.
