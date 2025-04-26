@@ -1,0 +1,7 @@
+- [ ] Add docs to grocery route
+- [ ] add docs to grocery crud
+- [ ] add api descriptions to variables for grocery schema
+- [ ] write pytests for grocery crud
+- [ ] update user models to new typing format
+- [ ] add extensions file
+- [ ] 
